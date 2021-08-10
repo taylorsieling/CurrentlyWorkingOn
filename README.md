@@ -4,6 +4,7 @@
 
 ## August
 
+- 8/9/21: Setting up my Forever Foster database and backend API
 - 8/8/21: Setting up my Forever Foster Project (A reimagining of my Knittin Kittin' Foster App); Continued the Codecademy Learn PHP Course
 - 8/4/21: Started the Codecademy Learn PHP Course; Complete Intro to PHP and PHP Strings and Variables
 
