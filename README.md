@@ -2,6 +2,12 @@
 
 #### *A log of my non-repository and respository coding practice!*
 
+## September
+
+- 9/3/21: Reviewing for technical interview; Reading over old project code
+- 9/2/21: Deploying Knittin Kitten Foster; Creating Vue.js To-Do Application
+- 9/1/21: Cleaning up Knittin Kitten Foster Application for deployment
+
 ## August
 
 - 8/12/21: Completed the PHP Numbers section in the Codecademy Learn PHP Course
